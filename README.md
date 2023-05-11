@@ -10,15 +10,19 @@ You can view the application at https://boon-2c048.web.app/
 **Sign in as a student:**
 
 email: estudiante2.0@gmail.com
+
 ps: 123456
 
 **Sign in as a teacher:**
 
 email: maestro2.0@gmail.com
+
 ps: 123456
 
 **Sign in as a school administrator:**
+
 email: admin@boon.com
+
 ps: 123456
 
 
